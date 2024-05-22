@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 
 ################################################################################
@@ -14,8 +14,6 @@
 #   steps to install Node Exporter on your system.
 #
 # Note:
-#   - Ensure that you trust the source of this script before executing it,
-#     especially if it's being downloaded from an external URL.
 #   - Review the script to understand the actions it performs before running it.
 #
 # Author: @joshi101
