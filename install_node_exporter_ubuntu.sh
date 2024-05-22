@@ -1,25 +1,6 @@
 #!/bin/bash
 
 
-################################################################################
-# Description:                                                              
-#   This script automates the installation and configuration of Node Exporter,
-#   a Prometheus exporter for hardware and OS metrics exposed by *NIX kernels.
-#
-#   For more information about Node Exporter, visit:
-#   https://github.com/prometheus/node_exporter
-#
-# Usage:
-#   Run this script with superuser privileges. It will perform the necessary
-#   steps to install Node Exporter on your system.
-#
-# Note:
-#   - Review the script to understand the actions it performs before running it.
-#
-# Author: @joshi101
-################################################################################
-
-
 # Download Node Exporter
 wget https://github.com/prometheus/node_exporter/releases/download/v1.8.0/node_exporter-1.8.0.linux-amd64.tar.gz
 
