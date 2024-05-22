@@ -18,8 +18,7 @@
 #     especially if it's being downloaded from an external URL.
 #   - Review the script to understand the actions it performs before running it.
 #
-# Author: [Your Name]
-# Date: [Date]
+# Author: @joshi101
 ################################################################################
 
 
